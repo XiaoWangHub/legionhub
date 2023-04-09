@@ -1,4 +1,4 @@
-的--游轮更新了
+--咋？
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "鲨口求生2作者QQ168777105", HidePremium = false, IntroEnabled = false, ConfigFolder = "SB2Mod"})
 
